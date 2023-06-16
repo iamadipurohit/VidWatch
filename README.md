@@ -7,7 +7,7 @@ This repository contains the source code for a YouTube clone website developed u
 ## Features
 
 - User Registration and Login 📝🔐
-- Video Upload and Viewing 📹👀
+- Video Viewing 📹👀
 - Video Liking and Commenting 👍💬
 - Channel Subscription 📺🔔
 - Trending Videos 📈
@@ -49,7 +49,7 @@ This repository contains the source code for a YouTube clone website developed u
 - Click on a video thumbnail to watch the video.
 - Like and comment on videos by using the respective buttons.
 - Subscribe to channels to receive updates on new videos.
-- Upload your own videos using the "Upload" button in the navigation bar.
+
 
 ## Development
 
