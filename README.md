@@ -1,4 +1,4 @@
-# YouTube Clone
+#VidWatch
 
 ## Description
 
@@ -18,13 +18,13 @@ This repository contains the source code for a YouTube clone website developed u
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/youtube-clone.git
+   git clone https://github.com/your-username/VidWatch.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd youtube-clone
+   cd VidWatch
    ```
 
 3. Install the dependencies:
@@ -75,9 +75,9 @@ Please ensure that your code adheres to the existing coding style and includes a
 
 ## License
 
-The YouTube Clone is open-source and released under the [MIT License](LICENSE).
+The VidWatch is open-source and released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The YouTube Clone project drew inspiration from the functionalities of the original YouTube website and is intended for educational purposes only.
+The VidWatch project drew inspiration from the functionalities of the original YouTube website and is intended for educational purposes only.
 
